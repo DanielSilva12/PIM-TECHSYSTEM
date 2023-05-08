@@ -1,0 +1,49 @@
+
+Nome: maria
+CPF: 34000938389
+Telefone: 11977363637
+E-mail: maria@gmail.com
+Endereco: rua das oliveiras
+
+
+Nome: marta 
+CPF: 6832462378461193840938 
+Telefone: 1193840938 
+E-mail: marta@gmail.com 
+Endereco: rua tom jobim 334
+
+Nome: marta 
+CPF: 3243432432 
+Telefone: 80128398213 
+E-mail: marta@gmail 
+Endereco: campos sales
+
+Nome: marta
+CPF: 3243432432
+Telefone: 80128398213
+E-mail: marta@gmail
+Endereco: campos sales
+
+Nome: carla 
+CPF: 54395439 
+Telefone: 110293-293 
+E-mail: carla@gmail.com 
+Endereco: rua taipas
+
+Nome: carla
+CPF: 54395439
+Telefone: 110293-293
+E-mail: carla@gmail.com
+Endereco: rua taipas
+
+Nome: carla
+CPF: 54395439
+Telefone: 110293-293
+E-mail: carla@gmail.com
+Endereco: rua taipas
+
+Nome: carla
+CPF: 54395439
+Telefone: 110293-293
+E-mail: carla@gmail.com
+Endereco: rua taipas

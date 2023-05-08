@@ -1,0 +1,25 @@
+
+funcionario 1- 
+ nome: wesley 
+ cargo:gerente 
+ Cpf 98753663773 
+ email: wesley@techsystem.com 
+ telefone 11965377356
+funcionario 1- 
+ nome: daniel 
+ cargo:gerente 
+ Cpf 45083678929 
+ email: daniel@techsystem 
+ telefone 11986857368
+funcionario 1- 
+ nome: julia 
+ cargo:recepcionista 
+ Cpf 4633892489 
+ email: julia@gmail.com 
+ telefone 11943537899
+funcionario 1- 
+ nome: bruno 
+ cargo:ceo 
+ Cpf 31323123122 
+ email:  
+ telefone 119878773666

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1681066512 source:c:\users\dan_s\desktop\pim\main.c
+	"cabecalho.h"
+
+1681065896 c:\users\dan_s\desktop\pim\cabecalho.h
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<stdbool.h>
+
+1683502351 source:d:\pim-techsystem\main.c
+	"cabecalho.h"
+
+1683507470 d:\pim-techsystem\cabecalho.h
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<stdbool.h>
+
